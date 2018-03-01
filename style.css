@@ -1,1 +1,7 @@
-#box {width: 100px; height: 100px; position: absolute; background: blue; left: 200px; top: 200px;}
+#box {width: 100px; height: 100px; position: absolute; ; left: 200px; top: 200px;
+<box src: https://vignette.wikia.nocookie.net/supercomputer/images/5/50/200px-Carl_Brutananadilewski_%28Aqua_Teen_Hunger_Force%29.jpg/revision/latest?cb=20100719213009>
+}
+
+body {
+    background-image: url(https://img.4plebs.org/boards/pol/image/1469/20/1469207890378.png)
+}
